@@ -1,6 +1,6 @@
 # donald_duck_translator 🦆
 Translate your language in Donald Duck speak!!
-(Duck Duck Translator)[https://duck-duck-translator.netlify.app/]
+[Duck Duck Translator](https://duck-duck-translator.netlify.app/)
 
 
 Translate Your Talk to Donald Duck Talk 
