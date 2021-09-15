@@ -138,7 +138,7 @@
     .footer-list {
         display: flex;
         margin: auto;
-        width: 24%;
+        width: 15%;
         list-style-type: none;
         align-items: center;
     }
